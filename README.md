@@ -1,1 +1,1 @@
-# myocardal_infarction_class
+# myocardial_infarction_class
